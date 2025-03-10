@@ -39,8 +39,8 @@ Make sure you have the following installed on your system:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/AA-IT-WebTechCourse/webshopproject2025-Nazmus
-cd webshopproject2023-Nazmus
+git clone https://github.com/AA-IT-WebTechCourse/webshopproject2024-sakib7.git
+cd webshopproject2024-sakib7
 ```
 #### 2. Set up a Virtual Environment (windows cmd)
 ```bash
