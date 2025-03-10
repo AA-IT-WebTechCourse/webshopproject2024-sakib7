@@ -68,8 +68,13 @@ cd frontend
 npm install
 npm run dev
 ```
+Note: Run the frontend on a new terminal window. You can cd into the project folder and then run.
 
+#### 7. View in browser
 
+- Go to `http://localhost:3000/` to see the webshop. 
+- Initially no products will be there, click 'populate db' button to populate data. 
+- If you run populate_db multiple times, you will have to logout to clear the local storage. Otherwise, you may get 'Invalid token' error. 
 
 ## Conclusion
 
