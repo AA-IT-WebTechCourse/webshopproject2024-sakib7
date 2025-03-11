@@ -74,12 +74,13 @@ Note: Run the frontend on a new terminal window. You can cd into the project fol
 
 - Go to `http://localhost:3000/` to see the webshop. 
 - Initially no products will be there, click 'populate db' button to populate data. 
-- If you run populate_db multiple times, you will have to logout to clear the local storage. Otherwise, you may get 'Invalid token' error. 
+- If you run populate_db multiple times, you will have to logout to clear the local storage. Otherwise, you may get 'Invalid token' error if you were logged in before.
+- Notification messages are always shown in bottom-right corner.
 
 ## Screenshots of the UI
 
 ![](./frontend/public/webtech1.png)
-*Click populate db button to populate. Messages are always shown in bottom-right corner.*
+*Click populate db button to populate. .*
 
 ![](./frontend/public/webtech2.png)
 *Type in the search bar to search products by title.*
