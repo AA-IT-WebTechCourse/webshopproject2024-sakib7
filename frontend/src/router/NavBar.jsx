@@ -67,7 +67,7 @@ const NavBar = () => {
                 </div>
               </Link>
               <Link to="/myitems" className="text-white hover:text-gray-300">My Items</Link>
-              <Link to="/profile" className="text-white hover:text-gray-300"> {user?.username}</Link>
+              <Link to="/account" className="text-white hover:text-gray-300"> {user?.username}</Link>
               <Link to="#" className="text-white hover:text-gray-300" onClick={handleLogout}>Logout</Link>
             </>
             :

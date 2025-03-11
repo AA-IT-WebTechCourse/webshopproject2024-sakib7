@@ -41,7 +41,7 @@ const AppRouter = () => {
           element={<Cart />}
         />
       } />
-      <Route path='/profile' element={
+      <Route path='/account' element={
         <PrivateRoute
           element={<ChangePassword />}
         />

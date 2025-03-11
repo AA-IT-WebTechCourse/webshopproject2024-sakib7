@@ -76,6 +76,22 @@ Note: Run the frontend on a new terminal window. You can cd into the project fol
 - Initially no products will be there, click 'populate db' button to populate data. 
 - If you run populate_db multiple times, you will have to logout to clear the local storage. Otherwise, you may get 'Invalid token' error. 
 
+## Screenshots of the UI
+
+![](./frontend/public/webtech1.png)
+*Click populate db button to populate. Messages are always shown in bottom-right corner.*
+
+![](./frontend/public/webtech2.png)
+*Type in the search bar to search products by title.*
+
+![](./frontend/public/webtech3.png)
+*My items/Inventory page. It also has the 'Create new product' button.*
+
+![](./frontend/public/webtech4.png)
+*Shopping cart page. Error notification is shown in red text in each product.*
+
+![](./frontend/public/webtech5.png)
+*For successful payment, user will be redirected to the purchased tab of my items page*
 ## Conclusion
 
 **Feel free to send me an email if you face any issue to run the project**
